@@ -1,1 +1,2 @@
 #!/bin/bash
+grepn-i "root" /etc/passwd
